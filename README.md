@@ -45,5 +45,5 @@ This is a secure, modular, and scalable **Banking Management System** built usin
 
 1. **Clone the repo**
 ```bash
-git clone https://github.com/your-username/banking-app.git
+git clone https://github.com/GSB344/Banking-Application-Based-on-the-Microservices-Architecture.git
 cd banking-app
